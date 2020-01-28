@@ -3,7 +3,6 @@ import cse131.ArgsProcessor;
 public class Nim {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		ArgsProcessor ap = new ArgsProcessor(args);
 
 		int numSticks = ap.nextInt("Number of Sticks?");
@@ -194,7 +193,6 @@ public class Nim {
 						}
 							
 						}
-					//delete above if it doesnt work
 
 					}
 
@@ -273,9 +271,6 @@ public class Nim {
 
 
 			}
-			// this ends the if start ==1 clause 
-
-//code is right for if computer starts
 
 
 
